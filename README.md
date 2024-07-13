@@ -1,3 +1,4 @@
-#this is the first coding projected i worked on
-#i created a game where the user's goal is to guess the random number generated
-#user gets unlimited tries and will receive hints with each guess
+This is the first coding project I worked on.
+
+I created a game where the user aims to guess the random number generated.
+The user gets unlimited tries and will receive hints with each guess.
